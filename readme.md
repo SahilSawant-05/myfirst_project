@@ -1,2 +1,1 @@
-readme
-this is first text
+This is my first commit.
